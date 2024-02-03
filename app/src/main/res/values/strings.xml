@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">OrganizeMe</string>
+    <string name="greeting">How\'s it going?</string>
+    <string name="add_task_text">Add task</string>
+    <string name="today_tasks_text">Today\'s tasks</string>
+    <string name="yesterdays_tasks_text">Yesterday\'s tasks</string>
+    <string name="tomorrows_tasks_text">Tomorrow\'s tasks</string>
+    <string name="tasks_for_day_of_month_in_english">Tasks for %s %d</string>
+    <string name="tasks_for_day_of_month_in_spanish">Tareas del %d de %s</string>
+    <string name="completed_tasks_text">Completed tasks</string>
+    <string name="calendar_text">Calendar</string>
+    <!-- Days texts -->
+    <string name="monday_text">Monday</string>
+    <string name="tuesday_text">Tuesday</string>
+    <string name="wednesday_text">Wednesday</string>
+    <string name="thursday_text">Thursday</string>
+    <string name="friday_text">Friday</string>
+    <string name="saturday_text">Saturday</string>
+    <string name="sunday_text">Sunday</string>
+    <!-- Month texts -->
+    <string name="january_text">January</string>
+    <string name="february_text">February</string>
+    <string name="march_text">March</string>
+    <string name="april_text">April</string>
+    <string name="may_text">May</string>
+    <string name="june_text">June</string>
+    <string name="july_text">July</string>
+    <string name="august_text">August</string>
+    <string name="september_text">September</string>
+    <string name="october_text">October</string>
+    <string name="november_text">November</string>
+    <string name="december_text">December</string>
+    <string name="no_tasks_yet_text">No tasks yet</string>
+    <string name="no_tasks_completed_yet_text">No tasks completed yet</string>
+    <string name="save_task_text">Save task</string>
+    <string name="select_the_date_text">Select the date:</string>
+    <string name="task_title_text">Task title:</string>
+    <string name="type_a_title_text">Type a title…</string>
+    <string name="task_description_text">Task description (optional):</string>
+    <string name="type_a_description_text">Type a description…</string>
+    <string name="lorem_text" translatable="false">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac neque eu leo blandit ultrices a nec odio. Nulla facilisi. Integer sodales justo et eleifend venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed sed tortor id elit scelerisque feugiat. Curabitur viverra felis eu quam tincidunt euismod. Vivamus id dui quis nunc tincidunt rhoncus nec vel tortor. In interdum, dui a congue mattis, elit diam dapibus justo, a ultricies ipsum nunc eu libero. Vivamus condimentum elit nec justo finibus, et feugiat ante suscipit. Ut malesuada mi id dui tristique bibendum. Vivamus tristique scelerisque viverra. Aliquam non eleifend purus, vel efficitur quam. Nunc ut vehicula odio, a volutpat erat. Ut vehicula ipsum et pharetra hendrerit. Vivamus a venenatis nisl, ac viverra libero. Duis nec tortor sed urna convallis iaculis a non ligula. Suspendisse euismod, urna quis tristique bibendum, urna odio venenatis mi, ut fringilla felis metus id velit. Suspendisse potenti. In auctor arcu ac elit convallis, et bibendum turpis euismod. Phasellus et justo nec libero sollicitudin tincidunt. Sed id nunc tincidunt, fringilla mi at, malesuada tortor. Nulla facilisi. Fusce sodales sapien at nunc auctor, non pellentesque elit vestibulum. Aliquam in nulla a massa iaculis cursus. Vestibulum luctus, ligula nec vehicula tempus, erat odio facilisis nisl, at auctor turpis massa a ligula. Vivamus interdum arcu ut enim rhoncus, ut hendrerit odio congue. Nulla eu dui ut elit lacinia convallis.</string>
+    <string name="task_saved_text">Task saved</string>
+    <string name="remind_me_task_text">Remind me task (optional):</string>
+    <string name="remind_me_text">Remind me</string>
+    <string name="do_not_remind_me_task_text">Don\'t remind me</string>
+    <string name="task_can_not_be_empty_text">Task title can\'t be empty</string>
+    <string name="remind_me_at_text">Remind me on %s at %s</string>
+    <string name="remind_me_today_at_text">Remind me today at %s</string>
+    <string name="remind_me_yesterday_at_text">Remind me yesterday at %s</string>
+    <string name="remind_me_tomorrow_at_text">Remind me tomorrow at %s</string>
+    <string name="you_must_accept_to_permission_text">You must accept to permission to receive reminders</string>
+    <string name="ok_text">OK</string>
+    <string name="your_reminder_text">Your reminder</string>
+    <string name="task_restored_text">Task restored</string>
+    <string name="undo_text">Undo</string>
+    <string name="task_deleted_text">Task deleted</string>
+    <string name="edit_task_text">Edit task</string>
+    <string name="my_reminder_text">My Reminder</string>
+    <string name="dismiss_text">Dismiss</string>
+    <string name="mark_as_done_text">Mark as done</string>
+    <string name="suggestion_text">Suggestion</string>
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OrganizeMe</string>
+    <string name="greeting">¿Cómo te va?</string>
+    <string name="add_task_text">Agregar tarea</string>
+    <string name="today_tasks_text">Tareas de hoy</string>
+    <string name="yesterdays_tasks_text">Tareas de ayer</string>
+    <string name="tomorrows_tasks_text">Tareas de mañana</string>
+    <string name="tasks_for_day_of_month_in_english">Tasks for %s %d</string>
+    <string name="tasks_for_day_of_month_in_spanish">Tareas del %d de %s</string>
+    <string name="completed_tasks_text">Tareas completadas</string>
+    <string name="calendar_text">Calendario</string>
+    <!-- Days texts -->
+    <string name="monday_text">Lunes</string>
+    <string name="tuesday_text">Martes</string>
+    <string name="wednesday_text">Miércoles</string>
+    <string name="thursday_text">Jueves</string>
+    <string name="friday_text">Viernes</string>
+    <string name="saturday_text">Sábado</string>
+    <string name="sunday_text">Domingo</string>
+    <!-- Month texts -->
+    <string name="january_text">Enero</string>
+    <string name="february_text">Febrero</string>
+    <string name="march_text">Marzo</string>
+    <string name="april_text">Abril</string>
+    <string name="may_text">Mayo</string>
+    <string name="june_text">Junio</string>
+    <string name="july_text">Julio</string>
+    <string name="august_text">Agosto</string>
+    <string name="september_text">Septiembre</string>
+    <string name="october_text">Octubre</string>
+    <string name="november_text">Noviembre</string>
+    <string name="december_text">Diciembre</string>
+    <string name="no_tasks_yet_text">No hay tareas aún</string>
+    <string name="no_tasks_completed_yet_text">No hay tareas completadas aún</string>
+    <string name="save_task_text">Guardar tarea</string>
+    <string name="select_the_date_text">Selecciona la fecha:</string>
+    <string name="task_title_text">Título de la tarea:</string>
+    <string name="type_a_title_text">Escribe un título…</string>
+    <string name="task_description_text">Descripción de la tarea (opcional):</string>
+    <string name="type_a_description_text">Escribe una descripción…</string>
+    <string name="task_saved_text">Tarea guardada</string>
+    <string name="remind_me_task_text">Recordarme la tarea (opcional):</string>
+    <string name="remind_me_text">Recordarme</string>
+    <string name="do_not_remind_me_task_text">No recodarme</string>
+    <string name="task_can_not_be_empty_text">El título no puede ser vacío</string>
+    <string name="remind_me_at_text">Recordarme el %s a las %s</string>
+    <string name="remind_me_today_at_text">Recordarme hoy a las %s</string>
+    <string name="remind_me_yesterday_at_text">Recordarme ayer a las %s</string>
+    <string name="remind_me_tomorrow_at_text">Recordarme mañana a las %s</string>
+    <string name="you_must_accept_to_permission_text">Debes de aceptar el permiso para recibir recordatorios</string>
+    <string name="ok_text">OK</string>
+    <string name="your_reminder_text">Tú recordatorio</string>
+    <string name="task_restored_text">Tarea restaurada</string>
+    <string name="undo_text">Desacer</string>
+    <string name="task_deleted_text">Tarea eliminada</string>
+    <string name="edit_task_text">Editar tarea</string>
+    <string name="my_reminder_text">Mi recordatorio</string>
+    <string name="dismiss_text">Cerrar</string>
+    <string name="mark_as_done_text">Marcar como realizada</string>
+    <string name="suggestion_text">Sugerencia</string>
+</resources>
